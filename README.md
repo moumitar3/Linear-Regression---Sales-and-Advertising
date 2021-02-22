@@ -16,3 +16,5 @@ To solve this problem, we have used historical data of investment and sales valu
 Next we have created a Linear Regression model and fitted the dataset with the model. 
 After testing the model, we have saved the model for future use. 
 Finally, we have integrated the model with a GUI, in this project we will create a tkinter GUI.
+
+![Sales Estimater](https://user-images.githubusercontent.com/77183445/108729554-a8842c80-7550-11eb-8319-1e9611c9e8ec.png)
