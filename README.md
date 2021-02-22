@@ -11,7 +11,8 @@ Linear regression can be further divided into two types of the algorithm:
 ![Simple_and_Multiple_LR](https://user-images.githubusercontent.com/77183445/108728597-c1d8a900-754f-11eb-93b9-af3740873240.png)
 
 # Project
-#### Business Problem - a company wants to increase its sale to a certain amount. Now the challenge is to find the amount of investment on advertisement that will result the gain in sales. 
+#### Business Problem - a company wants to find out the sales by investing a certain amount on advertisement on TV, radio and newspaper. 
+
 To solve this problem, we have used historical data of investment and sales value and we have prepared our dataset.
 Next we have created a Linear Regression model and fitted the dataset with the model. 
 After testing the model, we have saved the model for future use. 
