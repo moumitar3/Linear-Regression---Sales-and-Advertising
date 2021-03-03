@@ -1,5 +1,5 @@
 # Linear Regression- Sales Prediction
-A complete walk through of Linear Regression Project
+End to end Linear Regression Project
 
 Linear Regression is a supervised machine learning algorithm. 
 It shows a linear relationship between a dependent and one/more independent variables. It finds how the value of the dependent variable is changing according to the value of the independent variable.  
